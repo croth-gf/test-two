@@ -1,0 +1,2 @@
+Add collaborator from the Settings menu for the repository.
+Allows push/pull requests.
