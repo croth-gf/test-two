@@ -1,0 +1,8 @@
+Some notes on the branch process.
+
+1. Create the branch with: git branch <NAME>
+2. Switch to the branch with: git checkout <NAME>
+3. Make changes
+4. Add changes with: git add <file>
+5. Commit changes with git commit -m "Text for change"
+6. Push the changes: git push origin <NAME>
